@@ -9,17 +9,17 @@
 
 ## Method and Examples
 
-### - Block Diagram
+### Block Diagram
 <img src="https://github.com/ethanhou99/Ship-Detection/blob/master/images/block_diagram.png" />
 
 - This project can be seprated into two parts: "Object Detection & User Input". The model will be trained using thousands of training set and be frozen after training. While user using the designed application, a set of photos will be inputed. Then the application will call the trained model and output the ships' directions. 
   
-### - Current Result(reat-time update)
+### Current Result(reat-time update)
 <img src="https://github.com/ethanhou99/Ship-Detection/blob/master/images/current_result.png" />
 
 - Current application can detect the sea and other objects. For the next step, we will add some complex training set to improve the noise-process-ability.
 
-### - Application Interface
+### Application Interface
 ![preview](https://github.com/ethanhou99/Ship-Detection/blob/master/images/Application_demo.gif)
 
 ## Keynote
