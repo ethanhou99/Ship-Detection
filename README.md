@@ -9,6 +9,12 @@
 
 ## Todo List
 - [x] Model select
+- [x] Webpage basic design
+- [ ] Metric choosing
+- [ ] Loss Function choosing
+- [ ] Hyper Parameters choosing
+- [ ] Webpage improvement
+- [ ] Webpage Deployment
 
 ## Method and Examples
 
